@@ -14,6 +14,7 @@ Renders our React App using`<react:component>` tag
 	module="js/Index.es"
 />
 ```
+Using ClayUI for the UI components
 
 ## How to Build and Deploy to Liferay
 Build it in a Liferay Workspace or provide a gradle wrapper for the project
